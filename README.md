@@ -3,7 +3,7 @@
 ## Hello World!, I'm Roshan, a Web Developer 👋🏼:
 
 👨🏼‍🎓 studying computer science
-   enough about me!
+enough about me!
 
 ### 💻 Tech Stack:
 
