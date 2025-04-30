@@ -1,4 +1,4 @@
-<img src="lideb-saj-5.jpg" alt="GitHub Banner" width="100%" />
+<img src="./cd6dbc99bb615c0c3cb6028e5130439f.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World! I'm Roshan, a Web Developer 👋🏼:
 
