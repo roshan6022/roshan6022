@@ -1,6 +1,6 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="lideb-saj-5.jpg" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Roshan, a Web Developer 👋🏼:
+# Hello World! I'm Roshan, a Web Developer 👋🏼:
 
 👨🏼‍🎓 studying computer science
 
@@ -14,7 +14,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/roshan6022/roshan6022/output/github-snake.svg" />
 </picture>
 
-//other tech stack
+<!-- other tech stack -->
 
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
